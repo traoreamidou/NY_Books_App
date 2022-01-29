@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NY_Books_App/static/css/main.e79f35a5.css",
+    "main.js": "/NY_Books_App/static/js/main.8fece8f0.js",
+    "index.html": "/NY_Books_App/index.html",
+    "main.e79f35a5.css.map": "/NY_Books_App/static/css/main.e79f35a5.css.map",
+    "main.8fece8f0.js.map": "/NY_Books_App/static/js/main.8fece8f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e79f35a5.css",
+    "static/js/main.8fece8f0.js"
+  ]
+}
